@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iberterc.github.io/sitemap.html.gz
+Sitemap: https://iberterc.github.io/app/sitemap.html.gz
+Sitemap: https://iberterc.github.io/assets/sitemap.html.gz
+Sitemap: https://iberterc.github.io/css/sitemap.html.gz
+Sitemap: https://iberterc.github.io/includes/sitemap.html.gz
+Sitemap: https://iberterc.github.io/item/sitemap.html.gz
+Sitemap: https://iberterc.github.io/src/sitemap.html.gz
